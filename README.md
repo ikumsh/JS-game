@@ -1,3 +1,9 @@
+Our attempt at a web based game of minesweeper using React.js
+
+To try it out clone this repository and open 'index.html', found in the 'public' folder in your browser.
+Right-click and select inspect to bring up the developer tools, and open up the console. Each cell in our game reacts to clicks, however we weren't able to finish the app so it just logs to the console at the moment.
+The final product has cells some of which have bombs and others that don't. The bombs are logged when you run the site & clicking on them results in a KABOOM!!
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
